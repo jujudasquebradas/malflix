@@ -1,0 +1,93 @@
+body  {
+    background: rgb(99, 151, 160);
+    color: rgb(243, 243, 243);
+margin: 0px;
+margin-bottom: 50px;
+}
+
+header  {
+    font-size: 36px;
+    color: aliceblue;
+    border-bottom: solid 3px rgb(26, 13, 214);
+    padding: 20px;
+    font-family: "Bebas Neue", system-ui;
+    font-size: 100px;
+    
+}
+
+
+.chama-video-intro  {
+    background: rgb(9, 133, 216);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chama-texto  {
+margin-right: 20px;
+
+}
+
+h2  {
+    font-family: "Stylish", serif;
+    font-size: 35px;
+
+}
+
+p  {
+    font-family: "Stylish", serif;
+    font-size: 25px;
+    
+}
+
+img  {
+height: 200px;
+
+}
+
+.indicacao-filmes  {
+display: flex;
+overflow-x: auto;
+gap: 20px;
+
+}
+
+.sugestoes  {
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+h3  {
+    font-family: "Oswald", sans-serif;
+    font-size: 30px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+
+
+.indicacao-filmes img {
+opacity: 0.5;
+
+}
+
+.indicacao-filmes img:hover  {
+opacity: 1;
+border: solid rgb(9, 242, 250) 4px;
+
+}
+
+
+footer  {
+
+
+}
+
+footer p  {
+    font-size: 22px;
+    text-align: center;
+    
+}
